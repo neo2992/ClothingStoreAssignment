@@ -1,6 +1,6 @@
 # ClothingStoreAssignment
 
- Simple console application created with Java19 and applying the SOLID and OO principles. 
+ Simple console application created with Java19 applying the SOLID and OO principles. 
  
  ## Assignment ##
 
